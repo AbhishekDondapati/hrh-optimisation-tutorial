@@ -1,0 +1,49 @@
+cat,dept,desig,req
+CHC-30,General Medicine,General Medicine Specialist,1
+CHC-30,General Surgery,General Surgery Specialist,1
+CHC-30,Dental Surgery,Dental Surgeon,1
+CHC-30,Obstetrics & Gynaecology,OBG specialist,1
+CHC-30,Anaesthesia,Anesthesiologist,1
+CHC-30,Paediatrics,Paediatrician,1
+CHC-30,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1
+CHC-50,General Medicine,General Medicine Specialist,1
+CHC-50,General Surgery,General Surgery Specialist,1
+CHC-50,Dental Surgery,Dental Surgeon,1
+CHC-50,Obstetrics & Gynaecology,OBG specialist,1
+CHC-50,Anaesthesia,Anesthesiologist,1
+CHC-50,Paediatrics,Paediatrician,1
+CHC-50,Orthopaedics,Orthopaedician,1
+CHC-50,Ophthalmology,Ophthalmology Specialist,1
+CHC-50,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1
+AH,General Medicine,General Medicine Specialist,2
+AH,General Surgery,General Surgery Specialist,2
+AH,Dental Surgery,Dental Surgeon,2
+AH,Obstetrics & Gynaecology,OBG specialist,2
+AH,Anaesthesia,Anesthesiologist,2
+AH,Paediatrics,Paediatrician,2
+AH,Orthopaedics,Orthopaedician,2
+AH,Ophthalmology,Ophthalmology Specialist,2
+AH,ENT,ENT specialist,2
+AH,Dermatology,Dermatologist,2
+AH,Psychiatry,Psychiatrist,2
+AH,Pulmonology,Pulmonary Medicine Specialist,2
+AH,RMO,RMO,2
+AH,Radiology & Pathology,Radiologist / Pathologist,2
+AH,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2
+DH,General Medicine,General Medicine Specialist,3
+DH,General Surgery,General Surgery Specialist,3
+DH,Dental Surgery,Dental Surgeon,3
+DH,Obstetrics & Gynaecology,OBG specialist,3
+DH,Anaesthesia,Anesthesiologist,3
+DH,Paediatrics,Paediatrician,3
+DH,Orthopaedics,Orthopaedician,3
+DH,Ophthalmology,Ophthalmology Specialist,3
+DH,ENT,ENT specialist,3
+DH,Dermatology,Dermatologist,3
+DH,Psychiatry,Psychiatrist,3
+DH,Pulmonology,Pulmonary Medicine Specialist,3
+DH,RMO,RMO,3
+DH,Radiology & Pathology,Radiologist / Pathologist,3
+DH,Microbiology,Microbiologist,3
+DH,Forensic Medicine,Forensic Medicine specialist,3
+DH,Dialysis Centre,General Duty Medical Officer (Non-Specialist),3

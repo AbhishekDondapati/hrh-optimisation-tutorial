@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper and this repository."
+title: "Beyond the staffing gap: code and synthetic data for integer optimisation of health workforce allocation"
+authors:
+  - family-names: Dondapati
+    given-names: Abhishek
+    affiliation: "Centre for Healthcare Management, Administrative Staff College of India"
+    email: abhishekuoh@gmail.com
+version: 1.0.0
+date-released: 2026-11-23
+license: MIT
+repository-code: "https://github.com/AbhishekDondapati/hrh-optimisation-tutorial"

@@ -1,0 +1,1324 @@
+fid,dept,desig,req,cat,avail
+0,General Medicine,General Medicine Specialist,1,CHC-30,1
+0,General Surgery,General Surgery Specialist,1,CHC-30,0
+0,Dental Surgery,Dental Surgeon,1,CHC-30,0
+0,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,1
+0,Anaesthesia,Anesthesiologist,1,CHC-30,2
+0,Paediatrics,Paediatrician,1,CHC-30,2
+0,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,1
+1,General Medicine,General Medicine Specialist,1,CHC-30,3
+1,General Surgery,General Surgery Specialist,1,CHC-30,1
+1,Dental Surgery,Dental Surgeon,1,CHC-30,0
+1,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,1
+1,Anaesthesia,Anesthesiologist,1,CHC-30,3
+1,Paediatrics,Paediatrician,1,CHC-30,1
+1,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,0
+2,General Medicine,General Medicine Specialist,1,CHC-30,2
+2,General Surgery,General Surgery Specialist,1,CHC-30,0
+2,Dental Surgery,Dental Surgeon,1,CHC-30,0
+2,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,2
+2,Anaesthesia,Anesthesiologist,1,CHC-30,3
+2,Paediatrics,Paediatrician,1,CHC-30,3
+2,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,0
+3,General Medicine,General Medicine Specialist,1,CHC-30,2
+3,General Surgery,General Surgery Specialist,1,CHC-30,1
+3,Dental Surgery,Dental Surgeon,1,CHC-30,0
+3,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,3
+3,Anaesthesia,Anesthesiologist,1,CHC-30,1
+3,Paediatrics,Paediatrician,1,CHC-30,2
+3,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,0
+4,General Medicine,General Medicine Specialist,1,CHC-30,1
+4,General Surgery,General Surgery Specialist,1,CHC-30,2
+4,Dental Surgery,Dental Surgeon,1,CHC-30,1
+4,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,4
+4,Anaesthesia,Anesthesiologist,1,CHC-30,3
+4,Paediatrics,Paediatrician,1,CHC-30,0
+4,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,0
+5,General Medicine,General Medicine Specialist,1,CHC-30,1
+5,General Surgery,General Surgery Specialist,1,CHC-30,1
+5,Dental Surgery,Dental Surgeon,1,CHC-30,0
+5,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,1
+5,Anaesthesia,Anesthesiologist,1,CHC-30,1
+5,Paediatrics,Paediatrician,1,CHC-30,1
+5,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,2
+6,General Medicine,General Medicine Specialist,1,CHC-30,1
+6,General Surgery,General Surgery Specialist,1,CHC-30,1
+6,Dental Surgery,Dental Surgeon,1,CHC-30,0
+6,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,0
+6,Anaesthesia,Anesthesiologist,1,CHC-30,2
+6,Paediatrics,Paediatrician,1,CHC-30,2
+6,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,1
+7,General Medicine,General Medicine Specialist,1,CHC-30,1
+7,General Surgery,General Surgery Specialist,1,CHC-30,1
+7,Dental Surgery,Dental Surgeon,1,CHC-30,0
+7,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,1
+7,Anaesthesia,Anesthesiologist,1,CHC-30,1
+7,Paediatrics,Paediatrician,1,CHC-30,2
+7,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,0
+8,General Medicine,General Medicine Specialist,1,CHC-30,1
+8,General Surgery,General Surgery Specialist,1,CHC-30,1
+8,Dental Surgery,Dental Surgeon,1,CHC-30,0
+8,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,3
+8,Anaesthesia,Anesthesiologist,1,CHC-30,1
+8,Paediatrics,Paediatrician,1,CHC-30,2
+8,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,1
+9,General Medicine,General Medicine Specialist,1,CHC-30,0
+9,General Surgery,General Surgery Specialist,1,CHC-30,0
+9,Dental Surgery,Dental Surgeon,1,CHC-30,0
+9,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,2
+9,Anaesthesia,Anesthesiologist,1,CHC-30,1
+9,Paediatrics,Paediatrician,1,CHC-30,2
+9,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,2
+10,General Medicine,General Medicine Specialist,1,CHC-30,1
+10,General Surgery,General Surgery Specialist,1,CHC-30,1
+10,Dental Surgery,Dental Surgeon,1,CHC-30,0
+10,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,2
+10,Anaesthesia,Anesthesiologist,1,CHC-30,1
+10,Paediatrics,Paediatrician,1,CHC-30,1
+10,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,0
+11,General Medicine,General Medicine Specialist,1,CHC-30,1
+11,General Surgery,General Surgery Specialist,1,CHC-30,1
+11,Dental Surgery,Dental Surgeon,1,CHC-30,0
+11,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,3
+11,Anaesthesia,Anesthesiologist,1,CHC-30,2
+11,Paediatrics,Paediatrician,1,CHC-30,1
+11,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,0
+12,General Medicine,General Medicine Specialist,1,CHC-30,1
+12,General Surgery,General Surgery Specialist,1,CHC-30,1
+12,Dental Surgery,Dental Surgeon,1,CHC-30,0
+12,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,2
+12,Anaesthesia,Anesthesiologist,1,CHC-30,2
+12,Paediatrics,Paediatrician,1,CHC-30,1
+12,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,2
+13,General Medicine,General Medicine Specialist,1,CHC-30,1
+13,General Surgery,General Surgery Specialist,1,CHC-30,2
+13,Dental Surgery,Dental Surgeon,1,CHC-30,0
+13,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,0
+13,Anaesthesia,Anesthesiologist,1,CHC-30,2
+13,Paediatrics,Paediatrician,1,CHC-30,2
+13,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,0
+14,General Medicine,General Medicine Specialist,1,CHC-30,1
+14,General Surgery,General Surgery Specialist,1,CHC-30,1
+14,Dental Surgery,Dental Surgeon,1,CHC-30,0
+14,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,1
+14,Anaesthesia,Anesthesiologist,1,CHC-30,2
+14,Paediatrics,Paediatrician,1,CHC-30,2
+14,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,1
+15,General Medicine,General Medicine Specialist,1,CHC-30,1
+15,General Surgery,General Surgery Specialist,1,CHC-30,1
+15,Dental Surgery,Dental Surgeon,1,CHC-30,1
+15,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,4
+15,Anaesthesia,Anesthesiologist,1,CHC-30,1
+15,Paediatrics,Paediatrician,1,CHC-30,1
+15,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,0
+16,General Medicine,General Medicine Specialist,1,CHC-30,1
+16,General Surgery,General Surgery Specialist,1,CHC-30,1
+16,Dental Surgery,Dental Surgeon,1,CHC-30,0
+16,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,0
+16,Anaesthesia,Anesthesiologist,1,CHC-30,1
+16,Paediatrics,Paediatrician,1,CHC-30,1
+16,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,0
+17,General Medicine,General Medicine Specialist,1,CHC-30,1
+17,General Surgery,General Surgery Specialist,1,CHC-30,1
+17,Dental Surgery,Dental Surgeon,1,CHC-30,0
+17,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,3
+17,Anaesthesia,Anesthesiologist,1,CHC-30,1
+17,Paediatrics,Paediatrician,1,CHC-30,2
+17,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,0
+18,General Medicine,General Medicine Specialist,1,CHC-30,1
+18,General Surgery,General Surgery Specialist,1,CHC-30,0
+18,Dental Surgery,Dental Surgeon,1,CHC-30,0
+18,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,2
+18,Anaesthesia,Anesthesiologist,1,CHC-30,3
+18,Paediatrics,Paediatrician,1,CHC-30,2
+18,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,1
+19,General Medicine,General Medicine Specialist,1,CHC-30,2
+19,General Surgery,General Surgery Specialist,1,CHC-30,0
+19,Dental Surgery,Dental Surgeon,1,CHC-30,1
+19,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,1
+19,Anaesthesia,Anesthesiologist,1,CHC-30,1
+19,Paediatrics,Paediatrician,1,CHC-30,0
+19,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,0
+20,General Medicine,General Medicine Specialist,1,CHC-30,1
+20,General Surgery,General Surgery Specialist,1,CHC-30,2
+20,Dental Surgery,Dental Surgeon,1,CHC-30,0
+20,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,1
+20,Anaesthesia,Anesthesiologist,1,CHC-30,2
+20,Paediatrics,Paediatrician,1,CHC-30,1
+20,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,0
+21,General Medicine,General Medicine Specialist,1,CHC-30,0
+21,General Surgery,General Surgery Specialist,1,CHC-30,1
+21,Dental Surgery,Dental Surgeon,1,CHC-30,0
+21,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,3
+21,Anaesthesia,Anesthesiologist,1,CHC-30,1
+21,Paediatrics,Paediatrician,1,CHC-30,1
+21,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,1
+22,General Medicine,General Medicine Specialist,1,CHC-30,1
+22,General Surgery,General Surgery Specialist,1,CHC-30,1
+22,Dental Surgery,Dental Surgeon,1,CHC-30,0
+22,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,2
+22,Anaesthesia,Anesthesiologist,1,CHC-30,0
+22,Paediatrics,Paediatrician,1,CHC-30,2
+22,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,0
+23,General Medicine,General Medicine Specialist,1,CHC-30,1
+23,General Surgery,General Surgery Specialist,1,CHC-30,0
+23,Dental Surgery,Dental Surgeon,1,CHC-30,0
+23,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,1
+23,Anaesthesia,Anesthesiologist,1,CHC-30,1
+23,Paediatrics,Paediatrician,1,CHC-30,0
+23,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,0
+24,General Medicine,General Medicine Specialist,1,CHC-30,1
+24,General Surgery,General Surgery Specialist,1,CHC-30,1
+24,Dental Surgery,Dental Surgeon,1,CHC-30,0
+24,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,3
+24,Anaesthesia,Anesthesiologist,1,CHC-30,2
+24,Paediatrics,Paediatrician,1,CHC-30,1
+24,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,0
+25,General Medicine,General Medicine Specialist,1,CHC-30,0
+25,General Surgery,General Surgery Specialist,1,CHC-30,1
+25,Dental Surgery,Dental Surgeon,1,CHC-30,0
+25,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,1
+25,Anaesthesia,Anesthesiologist,1,CHC-30,2
+25,Paediatrics,Paediatrician,1,CHC-30,2
+25,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,1
+26,General Medicine,General Medicine Specialist,1,CHC-30,1
+26,General Surgery,General Surgery Specialist,1,CHC-30,1
+26,Dental Surgery,Dental Surgeon,1,CHC-30,0
+26,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,1
+26,Anaesthesia,Anesthesiologist,1,CHC-30,3
+26,Paediatrics,Paediatrician,1,CHC-30,2
+26,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,0
+27,General Medicine,General Medicine Specialist,1,CHC-30,1
+27,General Surgery,General Surgery Specialist,1,CHC-30,2
+27,Dental Surgery,Dental Surgeon,1,CHC-30,1
+27,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,1
+27,Anaesthesia,Anesthesiologist,1,CHC-30,1
+27,Paediatrics,Paediatrician,1,CHC-30,3
+27,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,1
+28,General Medicine,General Medicine Specialist,1,CHC-30,1
+28,General Surgery,General Surgery Specialist,1,CHC-30,0
+28,Dental Surgery,Dental Surgeon,1,CHC-30,1
+28,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,1
+28,Anaesthesia,Anesthesiologist,1,CHC-30,2
+28,Paediatrics,Paediatrician,1,CHC-30,1
+28,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,0
+29,General Medicine,General Medicine Specialist,1,CHC-30,1
+29,General Surgery,General Surgery Specialist,1,CHC-30,1
+29,Dental Surgery,Dental Surgeon,1,CHC-30,0
+29,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,3
+29,Anaesthesia,Anesthesiologist,1,CHC-30,2
+29,Paediatrics,Paediatrician,1,CHC-30,1
+29,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,2
+30,General Medicine,General Medicine Specialist,1,CHC-30,1
+30,General Surgery,General Surgery Specialist,1,CHC-30,2
+30,Dental Surgery,Dental Surgeon,1,CHC-30,0
+30,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,1
+30,Anaesthesia,Anesthesiologist,1,CHC-30,0
+30,Paediatrics,Paediatrician,1,CHC-30,0
+30,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,0
+31,General Medicine,General Medicine Specialist,1,CHC-30,1
+31,General Surgery,General Surgery Specialist,1,CHC-30,1
+31,Dental Surgery,Dental Surgeon,1,CHC-30,1
+31,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,1
+31,Anaesthesia,Anesthesiologist,1,CHC-30,3
+31,Paediatrics,Paediatrician,1,CHC-30,2
+31,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,1
+32,General Medicine,General Medicine Specialist,1,CHC-30,1
+32,General Surgery,General Surgery Specialist,1,CHC-30,1
+32,Dental Surgery,Dental Surgeon,1,CHC-30,1
+32,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,1
+32,Anaesthesia,Anesthesiologist,1,CHC-30,1
+32,Paediatrics,Paediatrician,1,CHC-30,0
+32,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,0
+33,General Medicine,General Medicine Specialist,1,CHC-30,0
+33,General Surgery,General Surgery Specialist,1,CHC-30,1
+33,Dental Surgery,Dental Surgeon,1,CHC-30,0
+33,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,1
+33,Anaesthesia,Anesthesiologist,1,CHC-30,2
+33,Paediatrics,Paediatrician,1,CHC-30,2
+33,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,0
+34,General Medicine,General Medicine Specialist,1,CHC-30,1
+34,General Surgery,General Surgery Specialist,1,CHC-30,2
+34,Dental Surgery,Dental Surgeon,1,CHC-30,0
+34,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,2
+34,Anaesthesia,Anesthesiologist,1,CHC-30,1
+34,Paediatrics,Paediatrician,1,CHC-30,2
+34,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,0
+35,General Medicine,General Medicine Specialist,1,CHC-30,1
+35,General Surgery,General Surgery Specialist,1,CHC-30,1
+35,Dental Surgery,Dental Surgeon,1,CHC-30,0
+35,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,1
+35,Anaesthesia,Anesthesiologist,1,CHC-30,1
+35,Paediatrics,Paediatrician,1,CHC-30,0
+35,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,0
+36,General Medicine,General Medicine Specialist,1,CHC-30,1
+36,General Surgery,General Surgery Specialist,1,CHC-30,1
+36,Dental Surgery,Dental Surgeon,1,CHC-30,0
+36,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,1
+36,Anaesthesia,Anesthesiologist,1,CHC-30,3
+36,Paediatrics,Paediatrician,1,CHC-30,3
+36,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,1
+37,General Medicine,General Medicine Specialist,1,CHC-30,1
+37,General Surgery,General Surgery Specialist,1,CHC-30,1
+37,Dental Surgery,Dental Surgeon,1,CHC-30,2
+37,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,2
+37,Anaesthesia,Anesthesiologist,1,CHC-30,1
+37,Paediatrics,Paediatrician,1,CHC-30,1
+37,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,1
+38,General Medicine,General Medicine Specialist,1,CHC-30,1
+38,General Surgery,General Surgery Specialist,1,CHC-30,1
+38,Dental Surgery,Dental Surgeon,1,CHC-30,0
+38,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,3
+38,Anaesthesia,Anesthesiologist,1,CHC-30,2
+38,Paediatrics,Paediatrician,1,CHC-30,2
+38,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,1
+39,General Medicine,General Medicine Specialist,1,CHC-30,1
+39,General Surgery,General Surgery Specialist,1,CHC-30,1
+39,Dental Surgery,Dental Surgeon,1,CHC-30,1
+39,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,2
+39,Anaesthesia,Anesthesiologist,1,CHC-30,0
+39,Paediatrics,Paediatrician,1,CHC-30,2
+39,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,3
+40,General Medicine,General Medicine Specialist,1,CHC-30,2
+40,General Surgery,General Surgery Specialist,1,CHC-30,0
+40,Dental Surgery,Dental Surgeon,1,CHC-30,0
+40,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,1
+40,Anaesthesia,Anesthesiologist,1,CHC-30,1
+40,Paediatrics,Paediatrician,1,CHC-30,1
+40,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,0
+41,General Medicine,General Medicine Specialist,1,CHC-30,1
+41,General Surgery,General Surgery Specialist,1,CHC-30,1
+41,Dental Surgery,Dental Surgeon,1,CHC-30,0
+41,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,1
+41,Anaesthesia,Anesthesiologist,1,CHC-30,3
+41,Paediatrics,Paediatrician,1,CHC-30,1
+41,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,1
+42,General Medicine,General Medicine Specialist,1,CHC-30,1
+42,General Surgery,General Surgery Specialist,1,CHC-30,1
+42,Dental Surgery,Dental Surgeon,1,CHC-30,0
+42,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,0
+42,Anaesthesia,Anesthesiologist,1,CHC-30,2
+42,Paediatrics,Paediatrician,1,CHC-30,1
+42,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,0
+43,General Medicine,General Medicine Specialist,1,CHC-30,1
+43,General Surgery,General Surgery Specialist,1,CHC-30,1
+43,Dental Surgery,Dental Surgeon,1,CHC-30,1
+43,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,2
+43,Anaesthesia,Anesthesiologist,1,CHC-30,2
+43,Paediatrics,Paediatrician,1,CHC-30,0
+43,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,1
+44,General Medicine,General Medicine Specialist,1,CHC-30,1
+44,General Surgery,General Surgery Specialist,1,CHC-30,1
+44,Dental Surgery,Dental Surgeon,1,CHC-30,0
+44,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,1
+44,Anaesthesia,Anesthesiologist,1,CHC-30,2
+44,Paediatrics,Paediatrician,1,CHC-30,1
+44,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,1
+45,General Medicine,General Medicine Specialist,1,CHC-30,1
+45,General Surgery,General Surgery Specialist,1,CHC-30,1
+45,Dental Surgery,Dental Surgeon,1,CHC-30,0
+45,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,1
+45,Anaesthesia,Anesthesiologist,1,CHC-30,2
+45,Paediatrics,Paediatrician,1,CHC-30,2
+45,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,0
+46,General Medicine,General Medicine Specialist,1,CHC-30,1
+46,General Surgery,General Surgery Specialist,1,CHC-30,1
+46,Dental Surgery,Dental Surgeon,1,CHC-30,1
+46,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,2
+46,Anaesthesia,Anesthesiologist,1,CHC-30,2
+46,Paediatrics,Paediatrician,1,CHC-30,1
+46,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,1
+47,General Medicine,General Medicine Specialist,1,CHC-30,1
+47,General Surgery,General Surgery Specialist,1,CHC-30,0
+47,Dental Surgery,Dental Surgeon,1,CHC-30,1
+47,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,0
+47,Anaesthesia,Anesthesiologist,1,CHC-30,0
+47,Paediatrics,Paediatrician,1,CHC-30,1
+47,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,2
+48,General Medicine,General Medicine Specialist,1,CHC-30,0
+48,General Surgery,General Surgery Specialist,1,CHC-30,1
+48,Dental Surgery,Dental Surgeon,1,CHC-30,0
+48,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,1
+48,Anaesthesia,Anesthesiologist,1,CHC-30,2
+48,Paediatrics,Paediatrician,1,CHC-30,1
+48,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,1
+49,General Medicine,General Medicine Specialist,1,CHC-30,1
+49,General Surgery,General Surgery Specialist,1,CHC-30,1
+49,Dental Surgery,Dental Surgeon,1,CHC-30,0
+49,Obstetrics & Gynaecology,OBG specialist,1,CHC-30,4
+49,Anaesthesia,Anesthesiologist,1,CHC-30,2
+49,Paediatrics,Paediatrician,1,CHC-30,1
+49,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-30,0
+57,General Medicine,General Medicine Specialist,1,CHC-50,2
+57,General Surgery,General Surgery Specialist,1,CHC-50,1
+57,Dental Surgery,Dental Surgeon,1,CHC-50,1
+57,Obstetrics & Gynaecology,OBG specialist,1,CHC-50,3
+57,Anaesthesia,Anesthesiologist,1,CHC-50,4
+57,Paediatrics,Paediatrician,1,CHC-50,2
+57,Orthopaedics,Orthopaedician,1,CHC-50,1
+57,Ophthalmology,Ophthalmology Specialist,1,CHC-50,0
+57,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-50,1
+58,General Medicine,General Medicine Specialist,1,CHC-50,1
+58,General Surgery,General Surgery Specialist,1,CHC-50,1
+58,Dental Surgery,Dental Surgeon,1,CHC-50,1
+58,Obstetrics & Gynaecology,OBG specialist,1,CHC-50,1
+58,Anaesthesia,Anesthesiologist,1,CHC-50,3
+58,Paediatrics,Paediatrician,1,CHC-50,2
+58,Orthopaedics,Orthopaedician,1,CHC-50,0
+58,Ophthalmology,Ophthalmology Specialist,1,CHC-50,0
+58,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-50,0
+59,General Medicine,General Medicine Specialist,1,CHC-50,1
+59,General Surgery,General Surgery Specialist,1,CHC-50,1
+59,Dental Surgery,Dental Surgeon,1,CHC-50,0
+59,Obstetrics & Gynaecology,OBG specialist,1,CHC-50,2
+59,Anaesthesia,Anesthesiologist,1,CHC-50,0
+59,Paediatrics,Paediatrician,1,CHC-50,2
+59,Orthopaedics,Orthopaedician,1,CHC-50,2
+59,Ophthalmology,Ophthalmology Specialist,1,CHC-50,0
+59,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-50,4
+60,General Medicine,General Medicine Specialist,1,CHC-50,1
+60,General Surgery,General Surgery Specialist,1,CHC-50,1
+60,Dental Surgery,Dental Surgeon,1,CHC-50,0
+60,Obstetrics & Gynaecology,OBG specialist,1,CHC-50,2
+60,Anaesthesia,Anesthesiologist,1,CHC-50,2
+60,Paediatrics,Paediatrician,1,CHC-50,3
+60,Orthopaedics,Orthopaedician,1,CHC-50,0
+60,Ophthalmology,Ophthalmology Specialist,1,CHC-50,0
+60,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-50,0
+61,General Medicine,General Medicine Specialist,1,CHC-50,1
+61,General Surgery,General Surgery Specialist,1,CHC-50,1
+61,Dental Surgery,Dental Surgeon,1,CHC-50,1
+61,Obstetrics & Gynaecology,OBG specialist,1,CHC-50,7
+61,Anaesthesia,Anesthesiologist,1,CHC-50,3
+61,Paediatrics,Paediatrician,1,CHC-50,1
+61,Orthopaedics,Orthopaedician,1,CHC-50,0
+61,Ophthalmology,Ophthalmology Specialist,1,CHC-50,0
+61,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-50,1
+62,General Medicine,General Medicine Specialist,1,CHC-50,1
+62,General Surgery,General Surgery Specialist,1,CHC-50,2
+62,Dental Surgery,Dental Surgeon,1,CHC-50,1
+62,Obstetrics & Gynaecology,OBG specialist,1,CHC-50,3
+62,Anaesthesia,Anesthesiologist,1,CHC-50,2
+62,Paediatrics,Paediatrician,1,CHC-50,1
+62,Orthopaedics,Orthopaedician,1,CHC-50,1
+62,Ophthalmology,Ophthalmology Specialist,1,CHC-50,0
+62,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-50,0
+63,General Medicine,General Medicine Specialist,1,CHC-50,1
+63,General Surgery,General Surgery Specialist,1,CHC-50,1
+63,Dental Surgery,Dental Surgeon,1,CHC-50,0
+63,Obstetrics & Gynaecology,OBG specialist,1,CHC-50,1
+63,Anaesthesia,Anesthesiologist,1,CHC-50,3
+63,Paediatrics,Paediatrician,1,CHC-50,1
+63,Orthopaedics,Orthopaedician,1,CHC-50,1
+63,Ophthalmology,Ophthalmology Specialist,1,CHC-50,0
+63,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-50,0
+64,General Medicine,General Medicine Specialist,1,CHC-50,1
+64,General Surgery,General Surgery Specialist,1,CHC-50,1
+64,Dental Surgery,Dental Surgeon,1,CHC-50,1
+64,Obstetrics & Gynaecology,OBG specialist,1,CHC-50,7
+64,Anaesthesia,Anesthesiologist,1,CHC-50,3
+64,Paediatrics,Paediatrician,1,CHC-50,4
+64,Orthopaedics,Orthopaedician,1,CHC-50,1
+64,Ophthalmology,Ophthalmology Specialist,1,CHC-50,0
+64,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-50,0
+65,General Medicine,General Medicine Specialist,1,CHC-50,1
+65,General Surgery,General Surgery Specialist,1,CHC-50,1
+65,Dental Surgery,Dental Surgeon,1,CHC-50,0
+65,Obstetrics & Gynaecology,OBG specialist,1,CHC-50,7
+65,Anaesthesia,Anesthesiologist,1,CHC-50,2
+65,Paediatrics,Paediatrician,1,CHC-50,4
+65,Orthopaedics,Orthopaedician,1,CHC-50,1
+65,Ophthalmology,Ophthalmology Specialist,1,CHC-50,0
+65,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-50,0
+66,General Medicine,General Medicine Specialist,1,CHC-50,0
+66,General Surgery,General Surgery Specialist,1,CHC-50,1
+66,Dental Surgery,Dental Surgeon,1,CHC-50,1
+66,Obstetrics & Gynaecology,OBG specialist,1,CHC-50,4
+66,Anaesthesia,Anesthesiologist,1,CHC-50,3
+66,Paediatrics,Paediatrician,1,CHC-50,1
+66,Orthopaedics,Orthopaedician,1,CHC-50,2
+66,Ophthalmology,Ophthalmology Specialist,1,CHC-50,0
+66,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-50,1
+67,General Medicine,General Medicine Specialist,1,CHC-50,1
+67,General Surgery,General Surgery Specialist,1,CHC-50,1
+67,Dental Surgery,Dental Surgeon,1,CHC-50,0
+67,Obstetrics & Gynaecology,OBG specialist,1,CHC-50,2
+67,Anaesthesia,Anesthesiologist,1,CHC-50,2
+67,Paediatrics,Paediatrician,1,CHC-50,5
+67,Orthopaedics,Orthopaedician,1,CHC-50,1
+67,Ophthalmology,Ophthalmology Specialist,1,CHC-50,0
+67,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-50,1
+68,General Medicine,General Medicine Specialist,1,CHC-50,0
+68,General Surgery,General Surgery Specialist,1,CHC-50,2
+68,Dental Surgery,Dental Surgeon,1,CHC-50,0
+68,Obstetrics & Gynaecology,OBG specialist,1,CHC-50,2
+68,Anaesthesia,Anesthesiologist,1,CHC-50,3
+68,Paediatrics,Paediatrician,1,CHC-50,3
+68,Orthopaedics,Orthopaedician,1,CHC-50,1
+68,Ophthalmology,Ophthalmology Specialist,1,CHC-50,0
+68,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-50,0
+69,General Medicine,General Medicine Specialist,1,CHC-50,1
+69,General Surgery,General Surgery Specialist,1,CHC-50,1
+69,Dental Surgery,Dental Surgeon,1,CHC-50,0
+69,Obstetrics & Gynaecology,OBG specialist,1,CHC-50,2
+69,Anaesthesia,Anesthesiologist,1,CHC-50,1
+69,Paediatrics,Paediatrician,1,CHC-50,4
+69,Orthopaedics,Orthopaedician,1,CHC-50,1
+69,Ophthalmology,Ophthalmology Specialist,1,CHC-50,0
+69,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-50,1
+70,General Medicine,General Medicine Specialist,1,CHC-50,1
+70,General Surgery,General Surgery Specialist,1,CHC-50,1
+70,Dental Surgery,Dental Surgeon,1,CHC-50,1
+70,Obstetrics & Gynaecology,OBG specialist,1,CHC-50,2
+70,Anaesthesia,Anesthesiologist,1,CHC-50,2
+70,Paediatrics,Paediatrician,1,CHC-50,2
+70,Orthopaedics,Orthopaedician,1,CHC-50,0
+70,Ophthalmology,Ophthalmology Specialist,1,CHC-50,1
+70,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-50,1
+71,General Medicine,General Medicine Specialist,1,CHC-50,2
+71,General Surgery,General Surgery Specialist,1,CHC-50,1
+71,Dental Surgery,Dental Surgeon,1,CHC-50,0
+71,Obstetrics & Gynaecology,OBG specialist,1,CHC-50,3
+71,Anaesthesia,Anesthesiologist,1,CHC-50,6
+71,Paediatrics,Paediatrician,1,CHC-50,1
+71,Orthopaedics,Orthopaedician,1,CHC-50,1
+71,Ophthalmology,Ophthalmology Specialist,1,CHC-50,0
+71,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-50,0
+72,General Medicine,General Medicine Specialist,1,CHC-50,0
+72,General Surgery,General Surgery Specialist,1,CHC-50,1
+72,Dental Surgery,Dental Surgeon,1,CHC-50,1
+72,Obstetrics & Gynaecology,OBG specialist,1,CHC-50,1
+72,Anaesthesia,Anesthesiologist,1,CHC-50,4
+72,Paediatrics,Paediatrician,1,CHC-50,2
+72,Orthopaedics,Orthopaedician,1,CHC-50,1
+72,Ophthalmology,Ophthalmology Specialist,1,CHC-50,0
+72,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-50,1
+73,General Medicine,General Medicine Specialist,1,CHC-50,1
+73,General Surgery,General Surgery Specialist,1,CHC-50,2
+73,Dental Surgery,Dental Surgeon,1,CHC-50,1
+73,Obstetrics & Gynaecology,OBG specialist,1,CHC-50,4
+73,Anaesthesia,Anesthesiologist,1,CHC-50,1
+73,Paediatrics,Paediatrician,1,CHC-50,3
+73,Orthopaedics,Orthopaedician,1,CHC-50,0
+73,Ophthalmology,Ophthalmology Specialist,1,CHC-50,0
+73,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-50,0
+74,General Medicine,General Medicine Specialist,1,CHC-50,2
+74,General Surgery,General Surgery Specialist,1,CHC-50,2
+74,Dental Surgery,Dental Surgeon,1,CHC-50,1
+74,Obstetrics & Gynaecology,OBG specialist,1,CHC-50,4
+74,Anaesthesia,Anesthesiologist,1,CHC-50,2
+74,Paediatrics,Paediatrician,1,CHC-50,4
+74,Orthopaedics,Orthopaedician,1,CHC-50,0
+74,Ophthalmology,Ophthalmology Specialist,1,CHC-50,0
+74,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-50,1
+75,General Medicine,General Medicine Specialist,1,CHC-50,1
+75,General Surgery,General Surgery Specialist,1,CHC-50,2
+75,Dental Surgery,Dental Surgeon,1,CHC-50,0
+75,Obstetrics & Gynaecology,OBG specialist,1,CHC-50,3
+75,Anaesthesia,Anesthesiologist,1,CHC-50,4
+75,Paediatrics,Paediatrician,1,CHC-50,3
+75,Orthopaedics,Orthopaedician,1,CHC-50,0
+75,Ophthalmology,Ophthalmology Specialist,1,CHC-50,0
+75,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-50,1
+76,General Medicine,General Medicine Specialist,1,CHC-50,1
+76,General Surgery,General Surgery Specialist,1,CHC-50,1
+76,Dental Surgery,Dental Surgeon,1,CHC-50,0
+76,Obstetrics & Gynaecology,OBG specialist,1,CHC-50,1
+76,Anaesthesia,Anesthesiologist,1,CHC-50,3
+76,Paediatrics,Paediatrician,1,CHC-50,0
+76,Orthopaedics,Orthopaedician,1,CHC-50,0
+76,Ophthalmology,Ophthalmology Specialist,1,CHC-50,0
+76,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-50,1
+77,General Medicine,General Medicine Specialist,1,CHC-50,2
+77,General Surgery,General Surgery Specialist,1,CHC-50,2
+77,Dental Surgery,Dental Surgeon,1,CHC-50,0
+77,Obstetrics & Gynaecology,OBG specialist,1,CHC-50,3
+77,Anaesthesia,Anesthesiologist,1,CHC-50,1
+77,Paediatrics,Paediatrician,1,CHC-50,4
+77,Orthopaedics,Orthopaedician,1,CHC-50,0
+77,Ophthalmology,Ophthalmology Specialist,1,CHC-50,0
+77,Dialysis Centre,General Duty Medical Officer (Non-Specialist),1,CHC-50,0
+82,General Medicine,General Medicine Specialist,2,AH,1
+82,General Surgery,General Surgery Specialist,2,AH,1
+82,Dental Surgery,Dental Surgeon,2,AH,1
+82,Obstetrics & Gynaecology,OBG specialist,2,AH,3
+82,Anaesthesia,Anesthesiologist,2,AH,3
+82,Paediatrics,Paediatrician,2,AH,2
+82,Orthopaedics,Orthopaedician,2,AH,1
+82,Ophthalmology,Ophthalmology Specialist,2,AH,1
+82,ENT,ENT specialist,2,AH,0
+82,Dermatology,Dermatologist,2,AH,0
+82,Psychiatry,Psychiatrist,2,AH,0
+82,Pulmonology,Pulmonary Medicine Specialist,2,AH,0
+82,RMO,RMO,2,AH,0
+82,Radiology & Pathology,Radiologist / Pathologist,2,AH,1
+82,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,0
+83,General Medicine,General Medicine Specialist,2,AH,2
+83,General Surgery,General Surgery Specialist,2,AH,1
+83,Dental Surgery,Dental Surgeon,2,AH,0
+83,Obstetrics & Gynaecology,OBG specialist,2,AH,4
+83,Anaesthesia,Anesthesiologist,2,AH,3
+83,Paediatrics,Paediatrician,2,AH,2
+83,Orthopaedics,Orthopaedician,2,AH,1
+83,Ophthalmology,Ophthalmology Specialist,2,AH,0
+83,ENT,ENT specialist,2,AH,2
+83,Dermatology,Dermatologist,2,AH,0
+83,Psychiatry,Psychiatrist,2,AH,1
+83,Pulmonology,Pulmonary Medicine Specialist,2,AH,0
+83,RMO,RMO,2,AH,0
+83,Radiology & Pathology,Radiologist / Pathologist,2,AH,1
+83,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,4
+84,General Medicine,General Medicine Specialist,2,AH,2
+84,General Surgery,General Surgery Specialist,2,AH,0
+84,Dental Surgery,Dental Surgeon,2,AH,1
+84,Obstetrics & Gynaecology,OBG specialist,2,AH,5
+84,Anaesthesia,Anesthesiologist,2,AH,2
+84,Paediatrics,Paediatrician,2,AH,2
+84,Orthopaedics,Orthopaedician,2,AH,2
+84,Ophthalmology,Ophthalmology Specialist,2,AH,1
+84,ENT,ENT specialist,2,AH,0
+84,Dermatology,Dermatologist,2,AH,0
+84,Psychiatry,Psychiatrist,2,AH,0
+84,Pulmonology,Pulmonary Medicine Specialist,2,AH,1
+84,RMO,RMO,2,AH,0
+84,Radiology & Pathology,Radiologist / Pathologist,2,AH,1
+84,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,1
+85,General Medicine,General Medicine Specialist,2,AH,4
+85,General Surgery,General Surgery Specialist,2,AH,3
+85,Dental Surgery,Dental Surgeon,2,AH,1
+85,Obstetrics & Gynaecology,OBG specialist,2,AH,4
+85,Anaesthesia,Anesthesiologist,2,AH,1
+85,Paediatrics,Paediatrician,2,AH,4
+85,Orthopaedics,Orthopaedician,2,AH,0
+85,Ophthalmology,Ophthalmology Specialist,2,AH,0
+85,ENT,ENT specialist,2,AH,1
+85,Dermatology,Dermatologist,2,AH,0
+85,Psychiatry,Psychiatrist,2,AH,0
+85,Pulmonology,Pulmonary Medicine Specialist,2,AH,1
+85,RMO,RMO,2,AH,0
+85,Radiology & Pathology,Radiologist / Pathologist,2,AH,0
+85,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,3
+86,General Medicine,General Medicine Specialist,2,AH,3
+86,General Surgery,General Surgery Specialist,2,AH,1
+86,Dental Surgery,Dental Surgeon,2,AH,1
+86,Obstetrics & Gynaecology,OBG specialist,2,AH,5
+86,Anaesthesia,Anesthesiologist,2,AH,2
+86,Paediatrics,Paediatrician,2,AH,4
+86,Orthopaedics,Orthopaedician,2,AH,1
+86,Ophthalmology,Ophthalmology Specialist,2,AH,1
+86,ENT,ENT specialist,2,AH,0
+86,Dermatology,Dermatologist,2,AH,1
+86,Psychiatry,Psychiatrist,2,AH,0
+86,Pulmonology,Pulmonary Medicine Specialist,2,AH,0
+86,RMO,RMO,2,AH,0
+86,Radiology & Pathology,Radiologist / Pathologist,2,AH,1
+86,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,1
+87,General Medicine,General Medicine Specialist,2,AH,2
+87,General Surgery,General Surgery Specialist,2,AH,2
+87,Dental Surgery,Dental Surgeon,2,AH,0
+87,Obstetrics & Gynaecology,OBG specialist,2,AH,5
+87,Anaesthesia,Anesthesiologist,2,AH,2
+87,Paediatrics,Paediatrician,2,AH,4
+87,Orthopaedics,Orthopaedician,2,AH,3
+87,Ophthalmology,Ophthalmology Specialist,2,AH,1
+87,ENT,ENT specialist,2,AH,1
+87,Dermatology,Dermatologist,2,AH,0
+87,Psychiatry,Psychiatrist,2,AH,0
+87,Pulmonology,Pulmonary Medicine Specialist,2,AH,1
+87,RMO,RMO,2,AH,0
+87,Radiology & Pathology,Radiologist / Pathologist,2,AH,2
+87,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,2
+88,General Medicine,General Medicine Specialist,2,AH,1
+88,General Surgery,General Surgery Specialist,2,AH,2
+88,Dental Surgery,Dental Surgeon,2,AH,2
+88,Obstetrics & Gynaecology,OBG specialist,2,AH,3
+88,Anaesthesia,Anesthesiologist,2,AH,3
+88,Paediatrics,Paediatrician,2,AH,2
+88,Orthopaedics,Orthopaedician,2,AH,1
+88,Ophthalmology,Ophthalmology Specialist,2,AH,0
+88,ENT,ENT specialist,2,AH,1
+88,Dermatology,Dermatologist,2,AH,0
+88,Psychiatry,Psychiatrist,2,AH,0
+88,Pulmonology,Pulmonary Medicine Specialist,2,AH,0
+88,RMO,RMO,2,AH,1
+88,Radiology & Pathology,Radiologist / Pathologist,2,AH,0
+88,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,3
+89,General Medicine,General Medicine Specialist,2,AH,1
+89,General Surgery,General Surgery Specialist,2,AH,1
+89,Dental Surgery,Dental Surgeon,2,AH,0
+89,Obstetrics & Gynaecology,OBG specialist,2,AH,3
+89,Anaesthesia,Anesthesiologist,2,AH,4
+89,Paediatrics,Paediatrician,2,AH,3
+89,Orthopaedics,Orthopaedician,2,AH,2
+89,Ophthalmology,Ophthalmology Specialist,2,AH,0
+89,ENT,ENT specialist,2,AH,0
+89,Dermatology,Dermatologist,2,AH,1
+89,Psychiatry,Psychiatrist,2,AH,0
+89,Pulmonology,Pulmonary Medicine Specialist,2,AH,0
+89,RMO,RMO,2,AH,0
+89,Radiology & Pathology,Radiologist / Pathologist,2,AH,2
+89,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,3
+90,General Medicine,General Medicine Specialist,2,AH,2
+90,General Surgery,General Surgery Specialist,2,AH,1
+90,Dental Surgery,Dental Surgeon,2,AH,2
+90,Obstetrics & Gynaecology,OBG specialist,2,AH,1
+90,Anaesthesia,Anesthesiologist,2,AH,3
+90,Paediatrics,Paediatrician,2,AH,5
+90,Orthopaedics,Orthopaedician,2,AH,1
+90,Ophthalmology,Ophthalmology Specialist,2,AH,1
+90,ENT,ENT specialist,2,AH,1
+90,Dermatology,Dermatologist,2,AH,0
+90,Psychiatry,Psychiatrist,2,AH,0
+90,Pulmonology,Pulmonary Medicine Specialist,2,AH,0
+90,RMO,RMO,2,AH,1
+90,Radiology & Pathology,Radiologist / Pathologist,2,AH,1
+90,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,6
+91,General Medicine,General Medicine Specialist,2,AH,2
+91,General Surgery,General Surgery Specialist,2,AH,1
+91,Dental Surgery,Dental Surgeon,2,AH,0
+91,Obstetrics & Gynaecology,OBG specialist,2,AH,2
+91,Anaesthesia,Anesthesiologist,2,AH,1
+91,Paediatrics,Paediatrician,2,AH,4
+91,Orthopaedics,Orthopaedician,2,AH,0
+91,Ophthalmology,Ophthalmology Specialist,2,AH,0
+91,ENT,ENT specialist,2,AH,0
+91,Dermatology,Dermatologist,2,AH,0
+91,Psychiatry,Psychiatrist,2,AH,0
+91,Pulmonology,Pulmonary Medicine Specialist,2,AH,0
+91,RMO,RMO,2,AH,0
+91,Radiology & Pathology,Radiologist / Pathologist,2,AH,2
+91,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,2
+92,General Medicine,General Medicine Specialist,2,AH,2
+92,General Surgery,General Surgery Specialist,2,AH,1
+92,Dental Surgery,Dental Surgeon,2,AH,0
+92,Obstetrics & Gynaecology,OBG specialist,2,AH,6
+92,Anaesthesia,Anesthesiologist,2,AH,3
+92,Paediatrics,Paediatrician,2,AH,2
+92,Orthopaedics,Orthopaedician,2,AH,1
+92,Ophthalmology,Ophthalmology Specialist,2,AH,0
+92,ENT,ENT specialist,2,AH,0
+92,Dermatology,Dermatologist,2,AH,0
+92,Psychiatry,Psychiatrist,2,AH,0
+92,Pulmonology,Pulmonary Medicine Specialist,2,AH,1
+92,RMO,RMO,2,AH,0
+92,Radiology & Pathology,Radiologist / Pathologist,2,AH,3
+92,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,1
+93,General Medicine,General Medicine Specialist,2,AH,1
+93,General Surgery,General Surgery Specialist,2,AH,3
+93,Dental Surgery,Dental Surgeon,2,AH,1
+93,Obstetrics & Gynaecology,OBG specialist,2,AH,1
+93,Anaesthesia,Anesthesiologist,2,AH,3
+93,Paediatrics,Paediatrician,2,AH,6
+93,Orthopaedics,Orthopaedician,2,AH,1
+93,Ophthalmology,Ophthalmology Specialist,2,AH,0
+93,ENT,ENT specialist,2,AH,0
+93,Dermatology,Dermatologist,2,AH,2
+93,Psychiatry,Psychiatrist,2,AH,0
+93,Pulmonology,Pulmonary Medicine Specialist,2,AH,2
+93,RMO,RMO,2,AH,0
+93,Radiology & Pathology,Radiologist / Pathologist,2,AH,1
+93,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,1
+94,General Medicine,General Medicine Specialist,2,AH,2
+94,General Surgery,General Surgery Specialist,2,AH,1
+94,Dental Surgery,Dental Surgeon,2,AH,1
+94,Obstetrics & Gynaecology,OBG specialist,2,AH,2
+94,Anaesthesia,Anesthesiologist,2,AH,2
+94,Paediatrics,Paediatrician,2,AH,2
+94,Orthopaedics,Orthopaedician,2,AH,1
+94,Ophthalmology,Ophthalmology Specialist,2,AH,0
+94,ENT,ENT specialist,2,AH,1
+94,Dermatology,Dermatologist,2,AH,0
+94,Psychiatry,Psychiatrist,2,AH,0
+94,Pulmonology,Pulmonary Medicine Specialist,2,AH,1
+94,RMO,RMO,2,AH,0
+94,Radiology & Pathology,Radiologist / Pathologist,2,AH,0
+94,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,1
+95,General Medicine,General Medicine Specialist,2,AH,2
+95,General Surgery,General Surgery Specialist,2,AH,2
+95,Dental Surgery,Dental Surgeon,2,AH,0
+95,Obstetrics & Gynaecology,OBG specialist,2,AH,5
+95,Anaesthesia,Anesthesiologist,2,AH,2
+95,Paediatrics,Paediatrician,2,AH,5
+95,Orthopaedics,Orthopaedician,2,AH,1
+95,Ophthalmology,Ophthalmology Specialist,2,AH,0
+95,ENT,ENT specialist,2,AH,0
+95,Dermatology,Dermatologist,2,AH,0
+95,Psychiatry,Psychiatrist,2,AH,2
+95,Pulmonology,Pulmonary Medicine Specialist,2,AH,0
+95,RMO,RMO,2,AH,1
+95,Radiology & Pathology,Radiologist / Pathologist,2,AH,0
+95,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,4
+96,General Medicine,General Medicine Specialist,2,AH,4
+96,General Surgery,General Surgery Specialist,2,AH,2
+96,Dental Surgery,Dental Surgeon,2,AH,0
+96,Obstetrics & Gynaecology,OBG specialist,2,AH,4
+96,Anaesthesia,Anesthesiologist,2,AH,5
+96,Paediatrics,Paediatrician,2,AH,3
+96,Orthopaedics,Orthopaedician,2,AH,2
+96,Ophthalmology,Ophthalmology Specialist,2,AH,1
+96,ENT,ENT specialist,2,AH,0
+96,Dermatology,Dermatologist,2,AH,0
+96,Psychiatry,Psychiatrist,2,AH,1
+96,Pulmonology,Pulmonary Medicine Specialist,2,AH,0
+96,RMO,RMO,2,AH,1
+96,Radiology & Pathology,Radiologist / Pathologist,2,AH,0
+96,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,2
+97,General Medicine,General Medicine Specialist,2,AH,1
+97,General Surgery,General Surgery Specialist,2,AH,1
+97,Dental Surgery,Dental Surgeon,2,AH,0
+97,Obstetrics & Gynaecology,OBG specialist,2,AH,6
+97,Anaesthesia,Anesthesiologist,2,AH,1
+97,Paediatrics,Paediatrician,2,AH,2
+97,Orthopaedics,Orthopaedician,2,AH,1
+97,Ophthalmology,Ophthalmology Specialist,2,AH,0
+97,ENT,ENT specialist,2,AH,0
+97,Dermatology,Dermatologist,2,AH,1
+97,Psychiatry,Psychiatrist,2,AH,0
+97,Pulmonology,Pulmonary Medicine Specialist,2,AH,0
+97,RMO,RMO,2,AH,0
+97,Radiology & Pathology,Radiologist / Pathologist,2,AH,1
+97,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,0
+98,General Medicine,General Medicine Specialist,2,AH,1
+98,General Surgery,General Surgery Specialist,2,AH,1
+98,Dental Surgery,Dental Surgeon,2,AH,1
+98,Obstetrics & Gynaecology,OBG specialist,2,AH,4
+98,Anaesthesia,Anesthesiologist,2,AH,3
+98,Paediatrics,Paediatrician,2,AH,4
+98,Orthopaedics,Orthopaedician,2,AH,2
+98,Ophthalmology,Ophthalmology Specialist,2,AH,0
+98,ENT,ENT specialist,2,AH,1
+98,Dermatology,Dermatologist,2,AH,0
+98,Psychiatry,Psychiatrist,2,AH,0
+98,Pulmonology,Pulmonary Medicine Specialist,2,AH,1
+98,RMO,RMO,2,AH,0
+98,Radiology & Pathology,Radiologist / Pathologist,2,AH,1
+98,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,1
+99,General Medicine,General Medicine Specialist,2,AH,1
+99,General Surgery,General Surgery Specialist,2,AH,1
+99,Dental Surgery,Dental Surgeon,2,AH,1
+99,Obstetrics & Gynaecology,OBG specialist,2,AH,4
+99,Anaesthesia,Anesthesiologist,2,AH,2
+99,Paediatrics,Paediatrician,2,AH,2
+99,Orthopaedics,Orthopaedician,2,AH,1
+99,Ophthalmology,Ophthalmology Specialist,2,AH,0
+99,ENT,ENT specialist,2,AH,0
+99,Dermatology,Dermatologist,2,AH,0
+99,Psychiatry,Psychiatrist,2,AH,0
+99,Pulmonology,Pulmonary Medicine Specialist,2,AH,0
+99,RMO,RMO,2,AH,0
+99,Radiology & Pathology,Radiologist / Pathologist,2,AH,2
+99,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,4
+100,General Medicine,General Medicine Specialist,2,AH,2
+100,General Surgery,General Surgery Specialist,2,AH,1
+100,Dental Surgery,Dental Surgeon,2,AH,1
+100,Obstetrics & Gynaecology,OBG specialist,2,AH,0
+100,Anaesthesia,Anesthesiologist,2,AH,4
+100,Paediatrics,Paediatrician,2,AH,1
+100,Orthopaedics,Orthopaedician,2,AH,2
+100,Ophthalmology,Ophthalmology Specialist,2,AH,1
+100,ENT,ENT specialist,2,AH,1
+100,Dermatology,Dermatologist,2,AH,2
+100,Psychiatry,Psychiatrist,2,AH,0
+100,Pulmonology,Pulmonary Medicine Specialist,2,AH,0
+100,RMO,RMO,2,AH,0
+100,Radiology & Pathology,Radiologist / Pathologist,2,AH,0
+100,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,1
+101,General Medicine,General Medicine Specialist,2,AH,2
+101,General Surgery,General Surgery Specialist,2,AH,2
+101,Dental Surgery,Dental Surgeon,2,AH,1
+101,Obstetrics & Gynaecology,OBG specialist,2,AH,2
+101,Anaesthesia,Anesthesiologist,2,AH,3
+101,Paediatrics,Paediatrician,2,AH,5
+101,Orthopaedics,Orthopaedician,2,AH,2
+101,Ophthalmology,Ophthalmology Specialist,2,AH,0
+101,ENT,ENT specialist,2,AH,0
+101,Dermatology,Dermatologist,2,AH,1
+101,Psychiatry,Psychiatrist,2,AH,0
+101,Pulmonology,Pulmonary Medicine Specialist,2,AH,0
+101,RMO,RMO,2,AH,1
+101,Radiology & Pathology,Radiologist / Pathologist,2,AH,0
+101,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,4
+102,General Medicine,General Medicine Specialist,2,AH,1
+102,General Surgery,General Surgery Specialist,2,AH,1
+102,Dental Surgery,Dental Surgeon,2,AH,0
+102,Obstetrics & Gynaecology,OBG specialist,2,AH,3
+102,Anaesthesia,Anesthesiologist,2,AH,2
+102,Paediatrics,Paediatrician,2,AH,2
+102,Orthopaedics,Orthopaedician,2,AH,2
+102,Ophthalmology,Ophthalmology Specialist,2,AH,0
+102,ENT,ENT specialist,2,AH,0
+102,Dermatology,Dermatologist,2,AH,1
+102,Psychiatry,Psychiatrist,2,AH,1
+102,Pulmonology,Pulmonary Medicine Specialist,2,AH,0
+102,RMO,RMO,2,AH,2
+102,Radiology & Pathology,Radiologist / Pathologist,2,AH,0
+102,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,6
+103,General Medicine,General Medicine Specialist,2,AH,1
+103,General Surgery,General Surgery Specialist,2,AH,0
+103,Dental Surgery,Dental Surgeon,2,AH,1
+103,Obstetrics & Gynaecology,OBG specialist,2,AH,5
+103,Anaesthesia,Anesthesiologist,2,AH,1
+103,Paediatrics,Paediatrician,2,AH,5
+103,Orthopaedics,Orthopaedician,2,AH,0
+103,Ophthalmology,Ophthalmology Specialist,2,AH,2
+103,ENT,ENT specialist,2,AH,0
+103,Dermatology,Dermatologist,2,AH,2
+103,Psychiatry,Psychiatrist,2,AH,0
+103,Pulmonology,Pulmonary Medicine Specialist,2,AH,1
+103,RMO,RMO,2,AH,0
+103,Radiology & Pathology,Radiologist / Pathologist,2,AH,0
+103,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,1
+104,General Medicine,General Medicine Specialist,2,AH,2
+104,General Surgery,General Surgery Specialist,2,AH,1
+104,Dental Surgery,Dental Surgeon,2,AH,0
+104,Obstetrics & Gynaecology,OBG specialist,2,AH,4
+104,Anaesthesia,Anesthesiologist,2,AH,1
+104,Paediatrics,Paediatrician,2,AH,1
+104,Orthopaedics,Orthopaedician,2,AH,1
+104,Ophthalmology,Ophthalmology Specialist,2,AH,3
+104,ENT,ENT specialist,2,AH,0
+104,Dermatology,Dermatologist,2,AH,0
+104,Psychiatry,Psychiatrist,2,AH,0
+104,Pulmonology,Pulmonary Medicine Specialist,2,AH,0
+104,RMO,RMO,2,AH,0
+104,Radiology & Pathology,Radiologist / Pathologist,2,AH,1
+104,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,1
+105,General Medicine,General Medicine Specialist,2,AH,4
+105,General Surgery,General Surgery Specialist,2,AH,1
+105,Dental Surgery,Dental Surgeon,2,AH,1
+105,Obstetrics & Gynaecology,OBG specialist,2,AH,5
+105,Anaesthesia,Anesthesiologist,2,AH,4
+105,Paediatrics,Paediatrician,2,AH,2
+105,Orthopaedics,Orthopaedician,2,AH,1
+105,Ophthalmology,Ophthalmology Specialist,2,AH,2
+105,ENT,ENT specialist,2,AH,1
+105,Dermatology,Dermatologist,2,AH,1
+105,Psychiatry,Psychiatrist,2,AH,0
+105,Pulmonology,Pulmonary Medicine Specialist,2,AH,0
+105,RMO,RMO,2,AH,0
+105,Radiology & Pathology,Radiologist / Pathologist,2,AH,2
+105,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,2
+106,General Medicine,General Medicine Specialist,2,AH,2
+106,General Surgery,General Surgery Specialist,2,AH,2
+106,Dental Surgery,Dental Surgeon,2,AH,0
+106,Obstetrics & Gynaecology,OBG specialist,2,AH,6
+106,Anaesthesia,Anesthesiologist,2,AH,5
+106,Paediatrics,Paediatrician,2,AH,4
+106,Orthopaedics,Orthopaedician,2,AH,0
+106,Ophthalmology,Ophthalmology Specialist,2,AH,0
+106,ENT,ENT specialist,2,AH,0
+106,Dermatology,Dermatologist,2,AH,1
+106,Psychiatry,Psychiatrist,2,AH,1
+106,Pulmonology,Pulmonary Medicine Specialist,2,AH,0
+106,RMO,RMO,2,AH,0
+106,Radiology & Pathology,Radiologist / Pathologist,2,AH,1
+106,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,2
+107,General Medicine,General Medicine Specialist,2,AH,1
+107,General Surgery,General Surgery Specialist,2,AH,2
+107,Dental Surgery,Dental Surgeon,2,AH,0
+107,Obstetrics & Gynaecology,OBG specialist,2,AH,3
+107,Anaesthesia,Anesthesiologist,2,AH,1
+107,Paediatrics,Paediatrician,2,AH,2
+107,Orthopaedics,Orthopaedician,2,AH,1
+107,Ophthalmology,Ophthalmology Specialist,2,AH,0
+107,ENT,ENT specialist,2,AH,0
+107,Dermatology,Dermatologist,2,AH,0
+107,Psychiatry,Psychiatrist,2,AH,0
+107,Pulmonology,Pulmonary Medicine Specialist,2,AH,1
+107,RMO,RMO,2,AH,0
+107,Radiology & Pathology,Radiologist / Pathologist,2,AH,3
+107,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,3
+108,General Medicine,General Medicine Specialist,2,AH,2
+108,General Surgery,General Surgery Specialist,2,AH,1
+108,Dental Surgery,Dental Surgeon,2,AH,0
+108,Obstetrics & Gynaecology,OBG specialist,2,AH,4
+108,Anaesthesia,Anesthesiologist,2,AH,3
+108,Paediatrics,Paediatrician,2,AH,3
+108,Orthopaedics,Orthopaedician,2,AH,2
+108,Ophthalmology,Ophthalmology Specialist,2,AH,0
+108,ENT,ENT specialist,2,AH,0
+108,Dermatology,Dermatologist,2,AH,1
+108,Psychiatry,Psychiatrist,2,AH,1
+108,Pulmonology,Pulmonary Medicine Specialist,2,AH,0
+108,RMO,RMO,2,AH,1
+108,Radiology & Pathology,Radiologist / Pathologist,2,AH,3
+108,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,1
+109,General Medicine,General Medicine Specialist,2,AH,1
+109,General Surgery,General Surgery Specialist,2,AH,1
+109,Dental Surgery,Dental Surgeon,2,AH,0
+109,Obstetrics & Gynaecology,OBG specialist,2,AH,7
+109,Anaesthesia,Anesthesiologist,2,AH,4
+109,Paediatrics,Paediatrician,2,AH,3
+109,Orthopaedics,Orthopaedician,2,AH,1
+109,Ophthalmology,Ophthalmology Specialist,2,AH,1
+109,ENT,ENT specialist,2,AH,0
+109,Dermatology,Dermatologist,2,AH,0
+109,Psychiatry,Psychiatrist,2,AH,1
+109,Pulmonology,Pulmonary Medicine Specialist,2,AH,0
+109,RMO,RMO,2,AH,0
+109,Radiology & Pathology,Radiologist / Pathologist,2,AH,1
+109,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,1
+110,General Medicine,General Medicine Specialist,2,AH,1
+110,General Surgery,General Surgery Specialist,2,AH,3
+110,Dental Surgery,Dental Surgeon,2,AH,2
+110,Obstetrics & Gynaecology,OBG specialist,2,AH,1
+110,Anaesthesia,Anesthesiologist,2,AH,2
+110,Paediatrics,Paediatrician,2,AH,3
+110,Orthopaedics,Orthopaedician,2,AH,2
+110,Ophthalmology,Ophthalmology Specialist,2,AH,0
+110,ENT,ENT specialist,2,AH,1
+110,Dermatology,Dermatologist,2,AH,0
+110,Psychiatry,Psychiatrist,2,AH,1
+110,Pulmonology,Pulmonary Medicine Specialist,2,AH,0
+110,RMO,RMO,2,AH,0
+110,Radiology & Pathology,Radiologist / Pathologist,2,AH,2
+110,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,3
+111,General Medicine,General Medicine Specialist,2,AH,3
+111,General Surgery,General Surgery Specialist,2,AH,3
+111,Dental Surgery,Dental Surgeon,2,AH,1
+111,Obstetrics & Gynaecology,OBG specialist,2,AH,3
+111,Anaesthesia,Anesthesiologist,2,AH,1
+111,Paediatrics,Paediatrician,2,AH,5
+111,Orthopaedics,Orthopaedician,2,AH,3
+111,Ophthalmology,Ophthalmology Specialist,2,AH,0
+111,ENT,ENT specialist,2,AH,0
+111,Dermatology,Dermatologist,2,AH,1
+111,Psychiatry,Psychiatrist,2,AH,1
+111,Pulmonology,Pulmonary Medicine Specialist,2,AH,0
+111,RMO,RMO,2,AH,0
+111,Radiology & Pathology,Radiologist / Pathologist,2,AH,2
+111,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,6
+112,General Medicine,General Medicine Specialist,2,AH,2
+112,General Surgery,General Surgery Specialist,2,AH,2
+112,Dental Surgery,Dental Surgeon,2,AH,2
+112,Obstetrics & Gynaecology,OBG specialist,2,AH,2
+112,Anaesthesia,Anesthesiologist,2,AH,4
+112,Paediatrics,Paediatrician,2,AH,2
+112,Orthopaedics,Orthopaedician,2,AH,2
+112,Ophthalmology,Ophthalmology Specialist,2,AH,1
+112,ENT,ENT specialist,2,AH,0
+112,Dermatology,Dermatologist,2,AH,1
+112,Psychiatry,Psychiatrist,2,AH,1
+112,Pulmonology,Pulmonary Medicine Specialist,2,AH,0
+112,RMO,RMO,2,AH,0
+112,Radiology & Pathology,Radiologist / Pathologist,2,AH,0
+112,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,2
+113,General Medicine,General Medicine Specialist,2,AH,4
+113,General Surgery,General Surgery Specialist,2,AH,2
+113,Dental Surgery,Dental Surgeon,2,AH,1
+113,Obstetrics & Gynaecology,OBG specialist,2,AH,2
+113,Anaesthesia,Anesthesiologist,2,AH,3
+113,Paediatrics,Paediatrician,2,AH,4
+113,Orthopaedics,Orthopaedician,2,AH,1
+113,Ophthalmology,Ophthalmology Specialist,2,AH,2
+113,ENT,ENT specialist,2,AH,0
+113,Dermatology,Dermatologist,2,AH,0
+113,Psychiatry,Psychiatrist,2,AH,0
+113,Pulmonology,Pulmonary Medicine Specialist,2,AH,0
+113,RMO,RMO,2,AH,1
+113,Radiology & Pathology,Radiologist / Pathologist,2,AH,0
+113,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,0
+114,General Medicine,General Medicine Specialist,2,AH,1
+114,General Surgery,General Surgery Specialist,2,AH,1
+114,Dental Surgery,Dental Surgeon,2,AH,0
+114,Obstetrics & Gynaecology,OBG specialist,2,AH,2
+114,Anaesthesia,Anesthesiologist,2,AH,0
+114,Paediatrics,Paediatrician,2,AH,3
+114,Orthopaedics,Orthopaedician,2,AH,1
+114,Ophthalmology,Ophthalmology Specialist,2,AH,1
+114,ENT,ENT specialist,2,AH,1
+114,Dermatology,Dermatologist,2,AH,0
+114,Psychiatry,Psychiatrist,2,AH,0
+114,Pulmonology,Pulmonary Medicine Specialist,2,AH,0
+114,RMO,RMO,2,AH,1
+114,Radiology & Pathology,Radiologist / Pathologist,2,AH,4
+114,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,1
+115,General Medicine,General Medicine Specialist,2,AH,2
+115,General Surgery,General Surgery Specialist,2,AH,1
+115,Dental Surgery,Dental Surgeon,2,AH,1
+115,Obstetrics & Gynaecology,OBG specialist,2,AH,4
+115,Anaesthesia,Anesthesiologist,2,AH,3
+115,Paediatrics,Paediatrician,2,AH,1
+115,Orthopaedics,Orthopaedician,2,AH,1
+115,Ophthalmology,Ophthalmology Specialist,2,AH,2
+115,ENT,ENT specialist,2,AH,1
+115,Dermatology,Dermatologist,2,AH,0
+115,Psychiatry,Psychiatrist,2,AH,1
+115,Pulmonology,Pulmonary Medicine Specialist,2,AH,1
+115,RMO,RMO,2,AH,0
+115,Radiology & Pathology,Radiologist / Pathologist,2,AH,1
+115,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,2
+116,General Medicine,General Medicine Specialist,2,AH,1
+116,General Surgery,General Surgery Specialist,2,AH,2
+116,Dental Surgery,Dental Surgeon,2,AH,2
+116,Obstetrics & Gynaecology,OBG specialist,2,AH,5
+116,Anaesthesia,Anesthesiologist,2,AH,2
+116,Paediatrics,Paediatrician,2,AH,2
+116,Orthopaedics,Orthopaedician,2,AH,1
+116,Ophthalmology,Ophthalmology Specialist,2,AH,1
+116,ENT,ENT specialist,2,AH,0
+116,Dermatology,Dermatologist,2,AH,0
+116,Psychiatry,Psychiatrist,2,AH,0
+116,Pulmonology,Pulmonary Medicine Specialist,2,AH,0
+116,RMO,RMO,2,AH,0
+116,Radiology & Pathology,Radiologist / Pathologist,2,AH,1
+116,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,1
+117,General Medicine,General Medicine Specialist,2,AH,2
+117,General Surgery,General Surgery Specialist,2,AH,3
+117,Dental Surgery,Dental Surgeon,2,AH,1
+117,Obstetrics & Gynaecology,OBG specialist,2,AH,2
+117,Anaesthesia,Anesthesiologist,2,AH,2
+117,Paediatrics,Paediatrician,2,AH,2
+117,Orthopaedics,Orthopaedician,2,AH,1
+117,Ophthalmology,Ophthalmology Specialist,2,AH,0
+117,ENT,ENT specialist,2,AH,0
+117,Dermatology,Dermatologist,2,AH,0
+117,Psychiatry,Psychiatrist,2,AH,1
+117,Pulmonology,Pulmonary Medicine Specialist,2,AH,1
+117,RMO,RMO,2,AH,1
+117,Radiology & Pathology,Radiologist / Pathologist,2,AH,2
+117,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,2
+118,General Medicine,General Medicine Specialist,2,AH,3
+118,General Surgery,General Surgery Specialist,2,AH,3
+118,Dental Surgery,Dental Surgeon,2,AH,0
+118,Obstetrics & Gynaecology,OBG specialist,2,AH,3
+118,Anaesthesia,Anesthesiologist,2,AH,1
+118,Paediatrics,Paediatrician,2,AH,3
+118,Orthopaedics,Orthopaedician,2,AH,1
+118,Ophthalmology,Ophthalmology Specialist,2,AH,1
+118,ENT,ENT specialist,2,AH,0
+118,Dermatology,Dermatologist,2,AH,2
+118,Psychiatry,Psychiatrist,2,AH,0
+118,Pulmonology,Pulmonary Medicine Specialist,2,AH,2
+118,RMO,RMO,2,AH,0
+118,Radiology & Pathology,Radiologist / Pathologist,2,AH,1
+118,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,0
+119,General Medicine,General Medicine Specialist,2,AH,2
+119,General Surgery,General Surgery Specialist,2,AH,3
+119,Dental Surgery,Dental Surgeon,2,AH,0
+119,Obstetrics & Gynaecology,OBG specialist,2,AH,2
+119,Anaesthesia,Anesthesiologist,2,AH,4
+119,Paediatrics,Paediatrician,2,AH,2
+119,Orthopaedics,Orthopaedician,2,AH,1
+119,Ophthalmology,Ophthalmology Specialist,2,AH,1
+119,ENT,ENT specialist,2,AH,0
+119,Dermatology,Dermatologist,2,AH,1
+119,Psychiatry,Psychiatrist,2,AH,0
+119,Pulmonology,Pulmonary Medicine Specialist,2,AH,1
+119,RMO,RMO,2,AH,1
+119,Radiology & Pathology,Radiologist / Pathologist,2,AH,3
+119,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,1
+120,General Medicine,General Medicine Specialist,2,AH,1
+120,General Surgery,General Surgery Specialist,2,AH,1
+120,Dental Surgery,Dental Surgeon,2,AH,2
+120,Obstetrics & Gynaecology,OBG specialist,2,AH,3
+120,Anaesthesia,Anesthesiologist,2,AH,3
+120,Paediatrics,Paediatrician,2,AH,1
+120,Orthopaedics,Orthopaedician,2,AH,1
+120,Ophthalmology,Ophthalmology Specialist,2,AH,2
+120,ENT,ENT specialist,2,AH,0
+120,Dermatology,Dermatologist,2,AH,0
+120,Psychiatry,Psychiatrist,2,AH,0
+120,Pulmonology,Pulmonary Medicine Specialist,2,AH,0
+120,RMO,RMO,2,AH,0
+120,Radiology & Pathology,Radiologist / Pathologist,2,AH,1
+120,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,1
+121,General Medicine,General Medicine Specialist,2,AH,3
+121,General Surgery,General Surgery Specialist,2,AH,2
+121,Dental Surgery,Dental Surgeon,2,AH,1
+121,Obstetrics & Gynaecology,OBG specialist,2,AH,3
+121,Anaesthesia,Anesthesiologist,2,AH,3
+121,Paediatrics,Paediatrician,2,AH,4
+121,Orthopaedics,Orthopaedician,2,AH,1
+121,Ophthalmology,Ophthalmology Specialist,2,AH,3
+121,ENT,ENT specialist,2,AH,0
+121,Dermatology,Dermatologist,2,AH,1
+121,Psychiatry,Psychiatrist,2,AH,0
+121,Pulmonology,Pulmonary Medicine Specialist,2,AH,0
+121,RMO,RMO,2,AH,0
+121,Radiology & Pathology,Radiologist / Pathologist,2,AH,2
+121,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,2
+127,General Medicine,General Medicine Specialist,2,AH,0
+127,General Surgery,General Surgery Specialist,2,AH,0
+127,Dental Surgery,Dental Surgeon,2,AH,0
+127,Obstetrics & Gynaecology,OBG specialist,2,AH,0
+127,Anaesthesia,Anesthesiologist,2,AH,0
+127,Paediatrics,Paediatrician,2,AH,1
+127,Orthopaedics,Orthopaedician,2,AH,0
+127,Ophthalmology,Ophthalmology Specialist,2,AH,0
+127,ENT,ENT specialist,2,AH,0
+127,Dermatology,Dermatologist,2,AH,0
+127,Psychiatry,Psychiatrist,2,AH,0
+127,Pulmonology,Pulmonary Medicine Specialist,2,AH,0
+127,RMO,RMO,2,AH,0
+127,Radiology & Pathology,Radiologist / Pathologist,2,AH,0
+127,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,0
+128,General Medicine,General Medicine Specialist,2,AH,1
+128,General Surgery,General Surgery Specialist,2,AH,3
+128,Dental Surgery,Dental Surgeon,2,AH,1
+128,Obstetrics & Gynaecology,OBG specialist,2,AH,3
+128,Anaesthesia,Anesthesiologist,2,AH,4
+128,Paediatrics,Paediatrician,2,AH,3
+128,Orthopaedics,Orthopaedician,2,AH,1
+128,Ophthalmology,Ophthalmology Specialist,2,AH,3
+128,ENT,ENT specialist,2,AH,0
+128,Dermatology,Dermatologist,2,AH,0
+128,Psychiatry,Psychiatrist,2,AH,1
+128,Pulmonology,Pulmonary Medicine Specialist,2,AH,0
+128,RMO,RMO,2,AH,0
+128,Radiology & Pathology,Radiologist / Pathologist,2,AH,0
+128,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,1
+129,General Medicine,General Medicine Specialist,2,AH,4
+129,General Surgery,General Surgery Specialist,2,AH,2
+129,Dental Surgery,Dental Surgeon,2,AH,0
+129,Obstetrics & Gynaecology,OBG specialist,2,AH,3
+129,Anaesthesia,Anesthesiologist,2,AH,3
+129,Paediatrics,Paediatrician,2,AH,4
+129,Orthopaedics,Orthopaedician,2,AH,2
+129,Ophthalmology,Ophthalmology Specialist,2,AH,0
+129,ENT,ENT specialist,2,AH,0
+129,Dermatology,Dermatologist,2,AH,0
+129,Psychiatry,Psychiatrist,2,AH,0
+129,Pulmonology,Pulmonary Medicine Specialist,2,AH,0
+129,RMO,RMO,2,AH,0
+129,Radiology & Pathology,Radiologist / Pathologist,2,AH,1
+129,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,3
+130,General Medicine,General Medicine Specialist,2,AH,3
+130,General Surgery,General Surgery Specialist,2,AH,1
+130,Dental Surgery,Dental Surgeon,2,AH,0
+130,Obstetrics & Gynaecology,OBG specialist,2,AH,2
+130,Anaesthesia,Anesthesiologist,2,AH,4
+130,Paediatrics,Paediatrician,2,AH,1
+130,Orthopaedics,Orthopaedician,2,AH,1
+130,Ophthalmology,Ophthalmology Specialist,2,AH,0
+130,ENT,ENT specialist,2,AH,1
+130,Dermatology,Dermatologist,2,AH,3
+130,Psychiatry,Psychiatrist,2,AH,0
+130,Pulmonology,Pulmonary Medicine Specialist,2,AH,0
+130,RMO,RMO,2,AH,1
+130,Radiology & Pathology,Radiologist / Pathologist,2,AH,1
+130,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,1
+131,General Medicine,General Medicine Specialist,2,AH,1
+131,General Surgery,General Surgery Specialist,2,AH,3
+131,Dental Surgery,Dental Surgeon,2,AH,1
+131,Obstetrics & Gynaecology,OBG specialist,2,AH,2
+131,Anaesthesia,Anesthesiologist,2,AH,4
+131,Paediatrics,Paediatrician,2,AH,2
+131,Orthopaedics,Orthopaedician,2,AH,0
+131,Ophthalmology,Ophthalmology Specialist,2,AH,1
+131,ENT,ENT specialist,2,AH,1
+131,Dermatology,Dermatologist,2,AH,1
+131,Psychiatry,Psychiatrist,2,AH,1
+131,Pulmonology,Pulmonary Medicine Specialist,2,AH,0
+131,RMO,RMO,2,AH,0
+131,Radiology & Pathology,Radiologist / Pathologist,2,AH,3
+131,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,2
+132,General Medicine,General Medicine Specialist,2,AH,3
+132,General Surgery,General Surgery Specialist,2,AH,1
+132,Dental Surgery,Dental Surgeon,2,AH,0
+132,Obstetrics & Gynaecology,OBG specialist,2,AH,3
+132,Anaesthesia,Anesthesiologist,2,AH,1
+132,Paediatrics,Paediatrician,2,AH,2
+132,Orthopaedics,Orthopaedician,2,AH,2
+132,Ophthalmology,Ophthalmology Specialist,2,AH,0
+132,ENT,ENT specialist,2,AH,0
+132,Dermatology,Dermatologist,2,AH,1
+132,Psychiatry,Psychiatrist,2,AH,0
+132,Pulmonology,Pulmonary Medicine Specialist,2,AH,0
+132,RMO,RMO,2,AH,0
+132,Radiology & Pathology,Radiologist / Pathologist,2,AH,1
+132,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,0
+134,General Medicine,General Medicine Specialist,2,AH,1
+134,General Surgery,General Surgery Specialist,2,AH,1
+134,Dental Surgery,Dental Surgeon,2,AH,0
+134,Obstetrics & Gynaecology,OBG specialist,2,AH,5
+134,Anaesthesia,Anesthesiologist,2,AH,2
+134,Paediatrics,Paediatrician,2,AH,3
+134,Orthopaedics,Orthopaedician,2,AH,1
+134,Ophthalmology,Ophthalmology Specialist,2,AH,1
+134,ENT,ENT specialist,2,AH,0
+134,Dermatology,Dermatologist,2,AH,0
+134,Psychiatry,Psychiatrist,2,AH,0
+134,Pulmonology,Pulmonary Medicine Specialist,2,AH,0
+134,RMO,RMO,2,AH,0
+134,Radiology & Pathology,Radiologist / Pathologist,2,AH,2
+134,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,0
+135,General Medicine,General Medicine Specialist,2,AH,2
+135,General Surgery,General Surgery Specialist,2,AH,0
+135,Dental Surgery,Dental Surgeon,2,AH,0
+135,Obstetrics & Gynaecology,OBG specialist,2,AH,4
+135,Anaesthesia,Anesthesiologist,2,AH,6
+135,Paediatrics,Paediatrician,2,AH,6
+135,Orthopaedics,Orthopaedician,2,AH,0
+135,Ophthalmology,Ophthalmology Specialist,2,AH,0
+135,ENT,ENT specialist,2,AH,1
+135,Dermatology,Dermatologist,2,AH,0
+135,Psychiatry,Psychiatrist,2,AH,0
+135,Pulmonology,Pulmonary Medicine Specialist,2,AH,1
+135,RMO,RMO,2,AH,0
+135,Radiology & Pathology,Radiologist / Pathologist,2,AH,2
+135,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,0
+136,General Medicine,General Medicine Specialist,2,AH,2
+136,General Surgery,General Surgery Specialist,2,AH,2
+136,Dental Surgery,Dental Surgeon,2,AH,1
+136,Obstetrics & Gynaecology,OBG specialist,2,AH,2
+136,Anaesthesia,Anesthesiologist,2,AH,2
+136,Paediatrics,Paediatrician,2,AH,5
+136,Orthopaedics,Orthopaedician,2,AH,2
+136,Ophthalmology,Ophthalmology Specialist,2,AH,0
+136,ENT,ENT specialist,2,AH,0
+136,Dermatology,Dermatologist,2,AH,0
+136,Psychiatry,Psychiatrist,2,AH,0
+136,Pulmonology,Pulmonary Medicine Specialist,2,AH,1
+136,RMO,RMO,2,AH,0
+136,Radiology & Pathology,Radiologist / Pathologist,2,AH,2
+136,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,3
+137,General Medicine,General Medicine Specialist,2,AH,1
+137,General Surgery,General Surgery Specialist,2,AH,2
+137,Dental Surgery,Dental Surgeon,2,AH,0
+137,Obstetrics & Gynaecology,OBG specialist,2,AH,2
+137,Anaesthesia,Anesthesiologist,2,AH,3
+137,Paediatrics,Paediatrician,2,AH,5
+137,Orthopaedics,Orthopaedician,2,AH,2
+137,Ophthalmology,Ophthalmology Specialist,2,AH,1
+137,ENT,ENT specialist,2,AH,0
+137,Dermatology,Dermatologist,2,AH,0
+137,Psychiatry,Psychiatrist,2,AH,1
+137,Pulmonology,Pulmonary Medicine Specialist,2,AH,0
+137,RMO,RMO,2,AH,0
+137,Radiology & Pathology,Radiologist / Pathologist,2,AH,2
+137,Dialysis Centre,General Duty Medical Officer (Non-Specialist),2,AH,0
+138,General Medicine,General Medicine Specialist,3,DH,1
+138,General Surgery,General Surgery Specialist,3,DH,4
+138,Dental Surgery,Dental Surgeon,3,DH,0
+138,Obstetrics & Gynaecology,OBG specialist,3,DH,13
+138,Anaesthesia,Anesthesiologist,3,DH,7
+138,Paediatrics,Paediatrician,3,DH,12
+138,Orthopaedics,Orthopaedician,3,DH,2
+138,Ophthalmology,Ophthalmology Specialist,3,DH,2
+138,ENT,ENT specialist,3,DH,2
+138,Dermatology,Dermatologist,3,DH,4
+138,Psychiatry,Psychiatrist,3,DH,0
+138,Pulmonology,Pulmonary Medicine Specialist,3,DH,0
+138,RMO,RMO,3,DH,2
+138,Radiology & Pathology,Radiologist / Pathologist,3,DH,1
+138,Microbiology,Microbiologist,3,DH,0
+138,Forensic Medicine,Forensic Medicine specialist,3,DH,1
+138,Dialysis Centre,General Duty Medical Officer (Non-Specialist),3,DH,5
+139,General Medicine,General Medicine Specialist,3,DH,2
+139,General Surgery,General Surgery Specialist,3,DH,3
+139,Dental Surgery,Dental Surgeon,3,DH,1
+139,Obstetrics & Gynaecology,OBG specialist,3,DH,13
+139,Anaesthesia,Anesthesiologist,3,DH,7
+139,Paediatrics,Paediatrician,3,DH,12
+139,Orthopaedics,Orthopaedician,3,DH,1
+139,Ophthalmology,Ophthalmology Specialist,3,DH,2
+139,ENT,ENT specialist,3,DH,1
+139,Dermatology,Dermatologist,3,DH,3
+139,Psychiatry,Psychiatrist,3,DH,1
+139,Pulmonology,Pulmonary Medicine Specialist,3,DH,0
+139,RMO,RMO,3,DH,2
+139,Radiology & Pathology,Radiologist / Pathologist,3,DH,2
+139,Microbiology,Microbiologist,3,DH,1
+139,Forensic Medicine,Forensic Medicine specialist,3,DH,1
+139,Dialysis Centre,General Duty Medical Officer (Non-Specialist),3,DH,5
