@@ -2,7 +2,7 @@
 
 Code and simulated data for the paper:
 
-> Dondapati, A. (2026). *Beyond the staffing gap: an integer optimisation framework for health workforce allocation in Indian public health systems.* Submitted to the Journal of the Operational Research Society. [DOI to be added.]
+> Dondapati, A. (2026). *Beyond the staffing gap: an integer optimisation framework for health workforce allocation in Indian public health systems.* 
 
 The repository turns a norm-based staffing gap (here, against the Indian Public Health Standards 2022) into decisions, using six linked models:
 
