@@ -1,4 +1,4 @@
-"""Reproduce every result of the guided example (Section 5 and Appendix A of the paper).
+"""Reproduce every result in Section 5 and Appendix A of the paper.
 
 Usage:  python src/run_all.py            main results (about 1-3 minutes)
         python src/run_all.py --sens     also the sensitivity analyses of Appendix A
@@ -20,10 +20,10 @@ def main(sens=False):
          "totals": {c: {"in_post": int(f[f"{c}_act"].sum()), "required": int(f[f"{c}_req"].sum()),
                         "gap": int(f[f"{c}_gap"].sum())} for c in C.CADRES}}
 
-    # Section 5.2-5.3: diagnostics and capability test
+    # Section 5.1: diagnostics and capability test
     R["diagnostics"] = diagnostics.run(f, roster)
 
-    # Section 5.4: redeployment by transfer scope
+    # Section 5.2: redeployment by transfer unit
     sup, dem = redeploy.supply_demand(f, roster, misplaced, norms)
     R["redeployment_inputs"] = {"supply": int(sup.n.sum()), "misplaced": int(misplaced.avail.sum()),
                                 "demand": int(dem.short.sum()), "demand_existing": int(dem[~dem.new].short.sum())}
@@ -40,16 +40,16 @@ def main(sens=False):
     st = fa.set_index("fid").status
     R["referral_ready_after_zone_moves"] = {"existing": int(ready[st == "Existing"].sum()), "new": int(ready[st == "New"].sum())}
 
-    # Section 5.5: budgeted allocation
+    # Section 5.3: budgeted allocation
     b2, fc = allocate.budget_scenarios(fa)
     R["full_gap_cost_cr"] = round(fc, 1)
     R["budget_scenarios"] = b2.to_dict("records")
 
-    # Section 5.6: equity-impact frontier
+    # Section 5.3: equity-impact frontier
     R["frontier_25pct_budget_target50"] = allocate.frontier(fa, fc * 0.25, 0.5).to_dict("records")
     R["frontier_50pct_budget_target75"] = allocate.frontier(fa, fc * 0.50, 0.75).to_dict("records")
 
-    # Section 5.7: phased recruitment
+    # Section 5.4: phased recruitment
     traj = allocate.phased(fa, C.CAPACITY, C.ATTRITION, C.YEARS)
     traj.to_csv(C.RESULTS / "phased_recruitment.csv", index=False)
     R["year_norm_reached"] = allocate.milestones(traj, 1.0)
@@ -105,20 +105,20 @@ def report(R):
     print("Totals (in post / required / gap):", {c: (v["in_post"], v["required"], v["gap"]) for c, v in t.items()})
     print("Gini, existing facilities:", R["diagnostics"]["gini_existing"])
     print("Referral-ready before moves:", R["diagnostics"]["referral_ready"])
-    print("\nTable 3 - redeployment by scope")
+    print("\nTable 2 - redeployment by transfer unit")
     for sc, v in R["redeployment"].items():
         print(f"  {sc:10s} moves {v['moves']:4d}  referral gaps {v['referral_gaps_closed']}/{v['referral_gaps_total']}"
               f"  empty depts {v['empty_departments_filled']:3d}  new referral {v['new_referral_filled']}/{v['new_referral_total']}"
               f"  cross-district {v['cross_district']}")
     print("Referral-ready after zone moves:", R["referral_ready_after_zone_moves"])
     print(f"\nFull-gap cost after redeployment: Rs {R['full_gap_cost_cr']} crore a year")
-    print("Table 4 - budget scenarios")
+    print("Table 3 - budget scenarios")
     for b in R["budget_scenarios"]:
         print(f"  {int(b['budget_share']*100)}%  Rs {b['budget_cr']} cr  new N/P/D {b['N_new_posts']}/{b['P_new_posts']}/{b['D_new_posts']}"
               f"  share after D/N/P {b['D_share_after']}/{b['N_share_after']}/{b['P_share_after']}")
-    print("Figure 6 - facilities functional by floor (25% budget):",
+    print("Figure 4 - facilities functional by floor (25% budget):",
           {p["floor"]: (int(p["functional"]) if p["status"] == "Optimal" else "not affordable") for p in R["frontier_25pct_budget_target50"]})
-    print("Table 5 - year each cadre reaches the norm:", R["year_norm_reached"])
+    print("Table 4 - year each cadre reaches the norm:", R["year_norm_reached"])
 
 
 if __name__ == "__main__":

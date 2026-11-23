@@ -1,5 +1,7 @@
 # Prescriptive optimisation for health workforce allocation
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24459272.svg)](https://doi.org/10.5281/zenodo.24459272)
+
 Code and simulated data for the paper:
 
 > Dondapati, A. (2026). *Beyond the staffing gap: an integer optimisation framework for health workforce allocation in Indian public health systems.* 
@@ -9,11 +11,11 @@ The repository turns a norm-based staffing gap (here, against the Indian Public 
 | Paper section | Model | File |
 |---|---|---|
 | 3.1 | Inequality diagnostics: required-post-weighted Gini and Theil-T with exact between/within decomposition | `src/diagnostics.py` |
-| 3.2 | Capability test: is every referral specialty (OBG, anaesthesia, paediatrics) in post? | `src/diagnostics.py` |
-| 4.1 | Redeployment of surplus specialists as an integer transportation problem, within a transfer unit | `src/redeploy.py` |
-| 4.2 | Budget-constrained allocation of new posts with diminishing returns | `src/allocate.py` |
-| 4.3 | Equity-impact frontier (epsilon-constraint, solved exactly as a 0-1 knapsack) | `src/allocate.py` |
-| 4.4 | Phased recruitment with capacity limits and attrition | `src/allocate.py` |
+| 3.1 | Capability test: is every referral specialty (OBG, anaesthesia, paediatrics) in post? | `src/diagnostics.py` |
+| 3.2 | Redeployment of surplus specialists as an integer transportation problem, within a transfer unit | `src/redeploy.py` |
+| 3.3 | Budget-constrained allocation of new posts with diminishing returns | `src/allocate.py` |
+| 3.4 | Equity-impact frontier (epsilon-constraint, solved exactly as a 0-1 knapsack) | `src/allocate.py` |
+| 3.5 | Phased recruitment with capacity limits and attrition | `src/allocate.py` |
 | 5.5 | Monte Carlo robustness of recruitment timelines (500 replications) | `src/robustness.py` |
 
 All integer programmes are solved with the open-source CBC solver through PuLP.
@@ -31,7 +33,7 @@ python src/run_all.py --sens   # also the sensitivity analyses of Appendix A
 python src/robustness.py       # Monte Carlo robustness of recruitment timelines (Section 5.5)
 ```
 
-The script prints Tables 3-5 of the paper and writes:
+The script prints Tables 2-4 of the paper and writes:
 
 - `results/results.json`: every number reported in Section 5 and Appendix A
 - `results/zone_moves.csv`: the transfer list from zone-bound redeployment
@@ -74,7 +76,9 @@ The models work for any tier of the system (sub-centres, PHCs, CHCs, district ho
 
 ## Citation
 
-Please cite the paper (above) and this repository (see `CITATION.cff`).
+Please cite the paper (above) and this repository:
+
+> Dondapati, A. (2026). *Beyond the staffing gap: code and synthetic data for integer optimisation of health workforce allocation* (Version 1.0) [Software and dataset]. Zenodo. https://doi.org/10.5281/zenodo.24459272
 
 ## Licence
 
